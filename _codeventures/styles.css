@@ -551,7 +551,7 @@ img, video {
 }
 .bg-\[\#1a6da2\] {
     --tw-bg-opacity: 1;
-    background-color: rgb(26 109 162/var(--tw-bg-opacity))
+    background-color: rgb(146 189 126/var(--tw-bg-opacity))
 }
 .bg-neutral-600 {
     --tw-bg-opacity: 1;
@@ -1158,6 +1158,13 @@ body {
     border-image-slice: 1;
   }
 
+#container3D canvas {
+    width: 100vw !important;
+    height: 100vh !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
 
   
   
