@@ -551,7 +551,7 @@ img, video {
 }
 .bg-\[\#1a6da2\] {
     --tw-bg-opacity: 1;
-    background-color: rgb(146 189 126/var(--tw-bg-opacity))
+    background-color: rgb(52 149 235/var(--tw-bg-opacity))
 }
 .bg-neutral-600 {
     --tw-bg-opacity: 1;
@@ -1142,13 +1142,13 @@ body {
 }
 
 .green-gradient {
-    background: linear-gradient(90deg, #92bd7e, #92bd7e);
+    background: linear-gradient(90deg, #3495eb, #3449eb);
     -webkit-background-clip: text;
     color: transparent;
   }
 
 .beige-gradient {
-    background: linear-gradient(90deg, #b39d84, #b39d84);
+    background: linear-gradient(90deg, #3495eb, #3449eb);
     -webkit-background-clip: text;
     color: transparent;
   }
@@ -1162,9 +1162,11 @@ body {
     width: 100vw !important;
     height: 100vh !important;
     position: absolute;
-    top: 0;
-    left: 0;
+    top: -10 !important;
+    left: 0 !important;
   }
+
+  
 
   
   
