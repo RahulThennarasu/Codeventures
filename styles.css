@@ -832,12 +832,12 @@ body {
     animation: gradient-x 5s ease infinite;
     border-radius: .5rem;
     background-image: linear-gradient(to right, var(--tw-gradient-stops));
-    --tw-gradient-from: #92bd7e; /* Change to desired color */
+    --tw-gradient-from: #3495eb; /* Change to desired color */
     --tw-gradient-to: rgba(179, 157, 132, 0); /* Change to desired color */
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
     --tw-gradient-to: rgba(179, 157, 132, 0); /* Change to desired color */
-    --tw-gradient-stops: var(--tw-gradient-from), #b39d84, var(--tw-gradient-to); /* Change to desired color */
-    --tw-gradient-to: #b39d84; /* Change to desired color */
+    --tw-gradient-stops: var(--tw-gradient-from), #3449eb, var(--tw-gradient-to); /* Change to desired color */
+    --tw-gradient-to: #3449eb; /* Change to desired color */
     opacity: .75;
     --tw-blur: blur(8px);
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
